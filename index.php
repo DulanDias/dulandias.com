@@ -1213,19 +1213,17 @@
                             <!--FILTERS-->
         
                             <!-- ITEMS -->
-                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
                             
                               <!-- item -->
                                 
-                                <div id="awd1" class="media-cell int image hentry">			
-                                    <div class="media-box">
-                                        <img src="images/awards/apicta2018.jpg" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                    </div>
-        
-                                    <div class="media-cell-desc">
-                                        <h3>Gold Award - Tertiary Student Project - Asia Pacific ICT Alliance (APICTA) Awards 2018, Guangzhou, China</h3>
-                                    </div>
+                                <div id="pub1" class="full hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>Identifying Racist Social Media Comments in Sinhala Language Using Text Analytics Models with Machine Learning</h4>
+                                            <h5>Conference - 2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)</h5>
+                                            <p>Racism or the act of discriminating people based on their race, gender, skin colour and other such related factors has been ruling the world since ancient times. With the development of technology and the introduction of various platforms to communicate with each other such as social media, it soon turned in to a platform to spread racial thoughts within communities. This became a serious issue when …<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8615492/">Read more</a></p>
+                                        </div>
         
                                 </div>
                                 <!-- item -->
