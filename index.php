@@ -1125,6 +1125,21 @@
         
                                 </div>
                                 <!-- item -->
+
+                                <!-- item -->
+                                
+                                <div id="awd1" class="media-cell nat image hentry">			
+                                    <div class="media-box">
+                                        <img src="images/awards/nbqsa2018.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Silver Award - Tertiary Undergraduate Project (Technology) - National Best Quality Software Awards 2018</h3>
+                                    </div>
+        
+                                </div>
+                                <!-- item -->
                             
                                 
                             </div>
