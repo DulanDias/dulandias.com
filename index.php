@@ -487,6 +487,15 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         </div>
                                         <!-- section-title -->
                                         
+
+                                    <!-- .skill-unit -->
+                                    <div class="skill-unit">
+                                            <h4>TypeScript/ Angular 2+</h4>
+                                            <div class="bar" data-percent="90">
+                                                <div class="progress"></div>
+                                            </div>
+                                        </div>
+                                        <!-- .skill-unit -->
             
                                         <!-- .skill-unit -->
                                         <div class="skill-unit">
@@ -523,9 +532,6 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                             </div>
                                         </div>
                                         <!-- .skill-unit -->
-            
-            
-            
             
             
                                         <!-- section-title -->
