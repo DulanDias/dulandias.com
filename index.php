@@ -747,9 +747,9 @@
                                         <img src="images/portfolio/aurora2015/01.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/aurora2015/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/aurora2015/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2015/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/aurora2015/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/aurora2015/03.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2015/04.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
                                     </div>
@@ -773,7 +773,7 @@
                     </section>
                     <!-- PAGE : PORTFOLIO -->
         
-        <!-- PAGE : BLOG -->
+                <!-- PAGE : BLOG -->
                     <section id="blog" class="pt-page page-layout">
                         <!-- .content -->
                         <div class="content">
@@ -1092,17 +1092,20 @@
                             
                             
                             <!--FILTERS-->
-                            <!-- <ul id="filters" class="filters">
+                            <ul id="filters" class="filters">
                                 <li class="current">
                                     <a href="#" data-filter="*">all</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".ebook">ebooks</a>
+                                    <a href="#" data-filter=".int">international</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".soft">software</a>
+                                    <a href="#" data-filter=".nat">national</a>
                                 </li>
-                            </ul> -->
+                                <li>
+                                    <a href="#" data-filter=".uni">university</a>
+                                </li>
+                            </ul>
                             <!--FILTERS-->
         
                             <!-- ITEMS -->
@@ -1110,94 +1113,17 @@
                             
                               <!-- item -->
                                 
-                                <div id="soft01" class="media-cell soft hentry">
-                                    <a href="cloud.php?file=DirLockerLite.msi">				
+                                <div id="awd1" class="media-cell int image hentry">			
                                     <div class="media-box">
-                                        <img src="cloud/dll.jpg" alt="portfolio-post">
+                                        <img src="images/awards/apicta2018.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                     </div>
         
                                     <div class="media-cell-desc">
-                                        <h3>DirLocker Lite v1.0 (by devtek)</h3>
-                                        
-                                        <?php
-                                        
-                                        $hit_count = @file_get_contents('//www.dulandias.com/download/DirLockerLite_Counter.txt');
-                                        echo '<p class="category">'.$hit_count.' downloads</p>';
-                                        
-                                        ?>
-                                        
+                                        <h3>Gold Award - Tertiary Student Project - Asia Pacific ICT Alliance (APICTA) Awards 2018, Guangzhou, China</h3>
                                     </div>
         
-                                </div></a>
-                                <!-- item -->
-                            
-                                <!-- item -->
-                                
-                                <div id="ebook001" class="media-cell ebook hentry">
-                                            <a href="cloud.php?file=lpp.pdf">				
-                                    <div class="media-box">
-                                        <img src="cloud/lpp.jpg" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                    </div>
-        
-                                    <div class="media-cell-desc">
-                                        <h3>Logic, Programming and PROLOG - Ulf Nilsson and Jan Maluszynski</h3>
-                                        <p class="category">CSC 207 1.5 Knowledge Representation</p>
-                                    </div>
-        
-                                </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
-                                <div id="ebook002" class="media-cell ebook hentry">
-                                <a href="cloud.php?file=AveryIngram-LaboratoryPhysics.pdf">
-                                    <div class="media-box">
-                                        <img src="cloud/lp.jpg" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                    </div>
-        
-                                    <div class="media-cell-desc">
-                                        <h3>Laboratory Physics - Avery and Ingram</h3>
-                                        <p class="category">PHY 125 2.0 Physics Practicals</p>
-                                    </div>
-        
-                                </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
-                                <div id="ebook003" class="media-cell ebook hentry">							
-                                <a href="cloud.php?file=LaboratoryManual.pdf">
-                                    <div class="media-box">
-                                        <img src="cloud/lm.jpg" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                    </div>
-        
-                                    <div class="media-cell-desc">
-                                        <h3>Laboratory Manual in Physics - Knowlton and Marcus</h3>
-                                        <p class="category">PHY 125 2.0 Physics Practicals</p>
-                                    </div>
-        
-                                </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
-                                <div id="ebook004" class="media-cell ebook hentry">
-                                <a href="cloud.php?file=oglPG.pdf">
-                                    <div class="media-box">
-                                        <img src="cloud/oglPG.jpg" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                    </div>
-        
-                                    <div class="media-cell-desc">
-                                        <h3>OpenGL Programming Guide</h3>
-                                        <p class="category">CSC 210 1.0 Computer Graphics</p>
-                                    </div>
-        
-                                </div></a>
+                                </div>
                                 <!-- item -->
                             
                                 
