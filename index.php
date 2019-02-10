@@ -1253,6 +1253,19 @@
         
                                 </div>
                                 <!-- item -->
+
+                                <!-- item -->
+                                <div id="pub4" class="abs hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>A Simple Machine Learning Approach for Identifying Promotional Short Message Service (SMS) Messages</h4>
+                                            <h5>Kelaniya International Conference on Advances in Computing and Technology (KICACT‒2017)</h5>
+                                            <p>Mobile phones play an integral part in the modern lives of humans. Short Message Services (SMS) Messages have become a popular mode for simple communication. Its' simplicity, cost-effectiveness and large audience has attracted the attention of advertising industry to …
+                                            <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/17374">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
                             
                                 
                             </div>
