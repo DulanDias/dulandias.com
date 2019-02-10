@@ -1229,13 +1229,26 @@
                                 <!-- item -->
 
                                 <!-- item -->
-                                <div id="pub1" class="ext hentry">			
+                                <div id="pub2" class="ext hentry">			
                                     
                                         <div class="event">
                                             <h4>Virtual Airplay Drum Kit based on Hand Gesture Recognition</h4>
                                             <h5>3rd International Conference on Advances in Computing and Technology (ICACT ‒ 2018)</h5>
                                             <p>In the music industry, a drum kit plays a vital role in the production of masterpiece musical melodies. It is also one of the instruments that is in greatest demand by youngsters who are passionate in learning and practicing music. But acquiring a typical drum kit is become a difficult task because of its high cost as well as it requires a large storage space to hold. This research is targeted in examining the possibility of engineering a cost-effective solution to build a portable drum kit. I …
                                             <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/18977">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
+
+                                <!-- item -->
+                                <div id="pub3" class="ext hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>Forecasting Monthly Ad Revenue from Blogs using Machine Learning</h4>
+                                            <h5>3rd International Conference on Advances in Computing and Technology (ICACT‒2018)</h5>
+                                            <p>Blogs emerged in the late 1990s as a technology that allows Internet users to share information. Since then, blogging has evolved to become a source of living to some and a hobby to others. A blog with rich content and regular traffic could easily be monetized through a number of methods. Affiliate marketing, Google AdSense, offering courses or services, selling eBooks and paid banner advertisements are some of the methods in which a blog could be monetized. …
+                                            <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/18997">Read more</a></p>
                                         </div>
         
                                 </div>
