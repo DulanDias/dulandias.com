@@ -1216,13 +1216,26 @@
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
                             
                               <!-- item -->
-                                
                                 <div id="pub1" class="full hentry">			
                                     
                                         <div class="event">
                                             <h4>Identifying Racist Social Media Comments in Sinhala Language Using Text Analytics Models with Machine Learning</h4>
-                                            <h5>Conference - 2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)</h5>
-                                            <p>Racism or the act of discriminating people based on their race, gender, skin colour and other such related factors has been ruling the world since ancient times. With the development of technology and the introduction of various platforms to communicate with each other such as social media, it soon turned in to a platform to spread racial thoughts within communities. This became a serious issue when …<a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8615492/">Read more</a></p>
+                                            <h5>2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)</h5>
+                                            <p>Racism or the act of discriminating people based on their race, gender, skin colour and other such related factors has been ruling the world since ancient times. With the development of technology and the introduction of various platforms to communicate with each other such as social media, it soon turned in to a platform to spread racial thoughts within …
+                                                <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8615492/">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
+
+                                <!-- item -->
+                                <div id="pub1" class="ext hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>Virtual Airplay Drum Kit based on Hand Gesture Recognition</h4>
+                                            <h5>3rd International Conference on Advances in Computing and Technology (ICACT ‒ 2018)</h5>
+                                            <p>In the music industry, a drum kit plays a vital role in the production of masterpiece musical melodies. It is also one of the instruments that is in greatest demand by youngsters who are passionate in learning and practicing music. But acquiring a typical drum kit is become a difficult task because of its high cost as well as it requires a large storage space to hold. This research is targeted in examining the possibility of engineering a cost-effective solution to build a portable drum kit. I …
+                                            <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/18977">Read more</a></p>
                                         </div>
         
                                 </div>
