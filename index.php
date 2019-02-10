@@ -1076,7 +1076,137 @@
                     <!-- PAGE : CLOUD -->
                     
                     
-                    
+                    <!-- PAGE : AWARDS -->
+                    <section id="awards" class="pt-page page-layout">
+                        <!-- .content -->
+                        <div class="content">
+                            <!-- .layout-medium -->
+                            <div class="layout-medium">
+        
+                            
+                            <!-- page-title -->
+                            <h1 class="page-title">
+                                <i class="pe-7s-medal"></i>awards
+                            </h1>
+                            <!-- page-title -->
+                            
+                            
+                            <!--FILTERS-->
+                            <!-- <ul id="filters" class="filters">
+                                <li class="current">
+                                    <a href="#" data-filter="*">all</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".ebook">ebooks</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".soft">software</a>
+                                </li>
+                            </ul> -->
+                            <!--FILTERS-->
+        
+                            <!-- ITEMS -->
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
+                            
+                              <!-- item -->
+                                
+                                <div id="soft01" class="media-cell soft hentry">
+                                    <a href="cloud.php?file=DirLockerLite.msi">				
+                                    <div class="media-box">
+                                        <img src="cloud/dll.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>DirLocker Lite v1.0 (by devtek)</h3>
+                                        
+                                        <?php
+                                        
+                                        $hit_count = @file_get_contents('//www.dulandias.com/download/DirLockerLite_Counter.txt');
+                                        echo '<p class="category">'.$hit_count.' downloads</p>';
+                                        
+                                        ?>
+                                        
+                                    </div>
+        
+                                </div></a>
+                                <!-- item -->
+                            
+                                <!-- item -->
+                                
+                                <div id="ebook001" class="media-cell ebook hentry">
+                                            <a href="cloud.php?file=lpp.pdf">				
+                                    <div class="media-box">
+                                        <img src="cloud/lpp.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Logic, Programming and PROLOG - Ulf Nilsson and Jan Maluszynski</h3>
+                                        <p class="category">CSC 207 1.5 Knowledge Representation</p>
+                                    </div>
+        
+                                </div></a>
+                                <!-- item -->
+                                
+                                <!-- item -->
+                                
+                                <div id="ebook002" class="media-cell ebook hentry">
+                                <a href="cloud.php?file=AveryIngram-LaboratoryPhysics.pdf">
+                                    <div class="media-box">
+                                        <img src="cloud/lp.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Laboratory Physics - Avery and Ingram</h3>
+                                        <p class="category">PHY 125 2.0 Physics Practicals</p>
+                                    </div>
+        
+                                </div></a>
+                                <!-- item -->
+                                
+                                <!-- item -->
+                                
+                                <div id="ebook003" class="media-cell ebook hentry">							
+                                <a href="cloud.php?file=LaboratoryManual.pdf">
+                                    <div class="media-box">
+                                        <img src="cloud/lm.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Laboratory Manual in Physics - Knowlton and Marcus</h3>
+                                        <p class="category">PHY 125 2.0 Physics Practicals</p>
+                                    </div>
+        
+                                </div></a>
+                                <!-- item -->
+                                
+                                <!-- item -->
+                                
+                                <div id="ebook004" class="media-cell ebook hentry">
+                                <a href="cloud.php?file=oglPG.pdf">
+                                    <div class="media-box">
+                                        <img src="cloud/oglPG.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>OpenGL Programming Guide</h3>
+                                        <p class="category">CSC 210 1.0 Computer Graphics</p>
+                                    </div>
+        
+                                </div></a>
+                                <!-- item -->
+                            
+                                
+                            </div>
+                            <!-- .layout-medium -->
+                        </div>
+                        <!-- .content -->
+                    </section>
+                    <!-- PAGE : AWARDS -->
                     
                     <!-- PAGE : LIVE -->
                     <section id="live" class="pt-page page-layout">
