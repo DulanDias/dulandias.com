@@ -406,6 +406,25 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         </div>
                                         
                                         <div class="event">
+                                            <h3>Aug 2018 - Current</h3>
+                                            <h4>Trainee Software Engineer</h4>
+                                            <h5>CodeGen International (Pvt) Ltd.</h5>
+                                        </div>
+
+                                        <div class="event">
+                                            <h3>May 2018 - Dec 2019</h3>
+                                            <h4>Co-chair</h4>
+                                            <h5>IEEE Sri Lanka Section Student/YP/WIE Congress 2018</h5>
+                                        </div>
+
+                                        <div class="event">
+                                            <h3>Jan 2018 - Current</h3>
+                                            <h4>Founder/ Interim Chair</h4>
+                                            <h5>IEEE Student Branch - University of Sri Jayewardenepura</h5>
+                                            
+                                        </div>
+
+                                        <div class="event">
                                             <h3>Mar 2017 - Current</h3>
                                             <h4>Co-founder/ Operations</h4>
                                             <h5>EchonLabs</h5>
