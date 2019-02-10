@@ -1179,6 +1179,64 @@
                         <!-- .content -->
                     </section>
                     <!-- PAGE : AWARDS -->
+
+                    <!-- PAGE : PUBLICATIONS -->
+                    <section id="publications" class="pt-page page-layout">
+                        <!-- .content -->
+                        <div class="content">
+                            <!-- .layout-medium -->
+                            <div class="layout-medium">
+        
+                            
+                            <!-- page-title -->
+                            <h1 class="page-title">
+                                <i class="pe-7s-news-paper"></i>publications
+                            </h1>
+                            <!-- page-title -->
+                            
+                            
+                            <!--FILTERS-->
+                            <ul id="filters" class="filters">
+                                <li class="current">
+                                    <a href="#" data-filter="*">all</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".full">full</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".abs">abstracts</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".ext">extended abstracts</a>
+                                </li>
+                            </ul>
+                            <!--FILTERS-->
+        
+                            <!-- ITEMS -->
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
+                            
+                              <!-- item -->
+                                
+                                <div id="awd1" class="media-cell int image hentry">			
+                                    <div class="media-box">
+                                        <img src="images/awards/apicta2018.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Gold Award - Tertiary Student Project - Asia Pacific ICT Alliance (APICTA) Awards 2018, Guangzhou, China</h3>
+                                    </div>
+        
+                                </div>
+                                <!-- item -->
+                            
+                                
+                            </div>
+                            <!-- .layout-medium -->
+                        </div>
+                        <!-- .content -->
+                    </section>
+                    <!-- PAGE : PUBLICATIONS -->
                     
                     <!-- PAGE : LIVE -->
                     <section id="live" class="pt-page page-layout">
