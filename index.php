@@ -1128,7 +1128,7 @@
 
                                 <!-- item -->
                                 
-                                <div id="awd1" class="media-cell nat image hentry">			
+                                <div id="awd2" class="media-cell nat image hentry">			
                                     <div class="media-box">
                                         <img src="images/awards/nbqsa2018.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
@@ -1139,7 +1139,38 @@
                                     </div>
         
                                 </div>
+
+
+                                <div id="awd3" class="media-cell uni image hentry">			
+                                    <div class="media-box">
+                                        <img src="images/awards/jesa2018.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Silver Medal - Best Employability Skills Achiever (Faculty of Applied Sciences) - J'pura Employability Skills Awards (JESA) 2018</h3>
+                                    </div>
+        
+                                </div>
                                 <!-- item -->
+
+                                <!-- item -->
+
+                                <div id="awd4" class="media-cell uni image hentry">			
+                                    <div class="media-box">
+                                        <img src="images/awards/jesa2017.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Silver Medal - Best Employability Skills Achiever (Faculty of Applied Sciences) - J'pura Employability Skills Awards (JESA) 2017</h3>
+                                    </div>
+        
+                                </div>
+                                <!-- item -->
+
+
+                                
                             
                                 
                             </div>
