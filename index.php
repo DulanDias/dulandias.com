@@ -1390,8 +1390,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                             <!-- fun-fact -->
                                             <div class="fun-fact">
                                                 <i class="pe-7s-map-marker"></i>
-                                                <h4>Wattala,</h4>
-                                                <h4>Sri Lanka.</h4>
+                                                <h4>Wattala,<br>Sri Lanka.</h4>
                                             </div>
                                             <!-- fun-fact -->
             
@@ -1404,7 +1403,6 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                             <!-- fun-fact -->
                                             <div class="fun-fact">
                                                 <i class="pe-7s-call"></i>
-                                                <h4>+94773089692</h4>
                                                 <h4>+94703089692</h4>
                                             </div>
                                             <!-- fun-fact -->
@@ -1418,8 +1416,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                             <!-- fun-fact -->
                                             <div class="fun-fact">
                                                 <i class="pe-7s-mail"></i>
-                                                <h4>dulandias@</h4>
-                                                <h4>outlook.com</h4>
+                                                <h4>dulan@<br>ieee.org</h4>
                                             </div>
                                             <!-- fun-fact -->
             
@@ -1431,8 +1428,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <!-- fun-fact -->
                                         <div class="fun-fact">
                                             <i class="pe-7s-check"></i>
-                                            <h4>Freelance</h4> 
-                                            <h4>Available</h4>
+                                            <h4>Freelance<br>Available</h4> 
                                         </div>
                                         <!-- fun-fact -->
         
