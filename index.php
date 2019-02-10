@@ -467,7 +467,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         </div>
                                             
                                         
-                                        <p><a href="/files/Dulan Dias - Curriculum Vitae - August 2017.pdf" class="button"><i class="pe-7s-download"></i>Download Resume/CV</a></p>
+                                        <p><a target="_blank" href="https://drive.google.com/file/d/1apPwCPRxPm0p74ccXdiU7MCYH0I-F9Nt/view?usp=sharing" class="button"><i class="pe-7s-download"></i>Download Resume</a></p>
                                         
                                     </div>
                                     <!-- col -->
