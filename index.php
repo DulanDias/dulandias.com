@@ -273,9 +273,19 @@
                                 <div class="row">
         
                                     <p>I am a goal-oriented individual with the ability to cope up with any responsibility and duty given to me. I have the capability of interacting with various types of people and working together as a team with having a good team spirit. </p><p>
-    I received my education at Lyceum International School where I completed my National G.C.E. Ordinary Level and Advanced Level Examinations. Also I have taken part in charity events and other activities organised by my school interactively.</p><p>
-    I completed my Certificate in PC Hardware Engineering soon after my Ordinary Level Examination and my Diploma in Information Technology soon after my Advanced Level Examination, from ESOFT Metro Campus.</p><p>
-    At present, I am an undergraduate in Bachelor of Science in Computer Science at University of Sri Jayewardenepura, Sri Lanka, as well as, an undergraduate in Bachelor of Information Technology (External) at University of Colombo School of Computing, Sri Lanka.</p><p>
+    I received my secondary education at Lyceum International School where I completed my National G.C.E. Ordinary Level and Advanced Level Examinations. </p><p>
+    I have currently completed the coursework for my B.Sc. (Special) in Computer Science degree at the University of Sri Jayewardenepura, and am awaiting final results to be released by the University. I have earned the Bachelor in Information Technology (External) degree (2014-2017) from the University of Colombo School of Computing in December 2017.
+</p>
+
+<p>
+I have published one full paper and three conference papers from my research work and one paper earned the “Best Research Paper Presented” award at the International Conference on Advances in Computing and Technology held in 2018 organized by the Faculty of Computing and Technology, University of Kelaniya. In addition, my final year research project at University of Sri Jayewardenepura, which was an artificial intelligence programme that generates original musical melodies when provided with an lyrical input, won the Silver Award under the “Tertiary Student Project (Technology)” category at National Best Quality Software Awards (NBQSA) 2018 and won the Gold Award under the “Tertiary Student Project” category at Asia-Pacific ICT Alliance (APICTA) Awards 2018 held in Guangzhou, China.
+</p>
+
+<p>
+I have also engaged in a number of extra-curricular skills, with the most recent been volunteering in the capacity of Co-Chair for the IEEE Sri Lanka Section Student/ Young Professionals/ Women in Engineering Congress 2018.
+</p>
+
+<p>
     Further, on completing my Bachelors I intend to continue higher education leading to a Ph.D. in relation to fields like Deep Learning and Artificial Intelligence.
     </p>
                                     
@@ -303,7 +313,7 @@
                                         <div class="fun-fact">
                                             <i class="pe-7s-map-2"></i>
                                             <!--<img src="images/site/icon-03.png" alt="image"/>-->
-                                            <h4>5 Countries Visited</h4>
+                                            <h4>6 Countries Visited</h4>
                                         </div>
                                         <!-- fun-fact -->
         
@@ -316,7 +326,7 @@
                                         <!-- fun-fact -->
                                         <div class="fun-fact">
                                             <i class="pe-7s-news-paper"></i>
-                                            <h4>6 Articles Published</h4>
+                                            <h4>4 Papers Published</h4>
                                         </div>
                                         <!-- fun-fact -->
         
@@ -637,9 +647,9 @@
                                         <img src="images/portfolio/hackx2017/06.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/hackx2017/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/hackx2017/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2017/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/hackx2017/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/hackx2017/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/hackx2017/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2017/05.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2017/06.jpg" class="lightbox"></a>
@@ -656,9 +666,9 @@
                                         <img src="images/portfolio/employability2017/03.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/employability2017/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/employability2017/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/employability2017/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/employability2017/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/employability2017/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/employability2017/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/employability2017/05.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
@@ -674,9 +684,9 @@
                                         <img src="images/portfolio/aurora2k17/02.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/aurora2k17/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/aurora2k17/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2k17/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/aurora2k17/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/aurora2k17/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/aurora2k17/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2k17/05.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
@@ -692,9 +702,9 @@
                                         <img src="images/portfolio/ihack2016/01.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/ihack2016/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/ihack2016/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/ihack2016/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/ihack2016/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/ihack2016/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/ihack2016/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/ihack2016/05.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery --> 
@@ -710,9 +720,9 @@
                                         <img src="images/portfolio/employability2016/03.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/employability2016/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/employability2016/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/employability2016/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/employability2016/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/employability2016/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/employability2016/04.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
                                     </div>
@@ -727,11 +737,11 @@
                                         <img src="images/portfolio/hackx2016/03.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/hackx2016/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/hackx2016/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2016/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/hackx2016/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/hackx2016/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/hackx2016/04.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/hackx2016/06.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/hackx2016/06.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/hackx2016/07.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
                                     </div>
@@ -1204,10 +1214,10 @@
                                     <a href="#" data-filter=".full">full</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".abs">abstracts</a>
+                                    <a href="#" data-filter=".ext">extended abstracts</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".ext">extended abstracts</a>
+                                    <a href="#" data-filter=".abs">abstracts</a>
                                 </li>
                             </ul>
                             <!--FILTERS-->
