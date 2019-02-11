@@ -273,9 +273,19 @@
                                 <div class="row">
         
                                     <p>I am a goal-oriented individual with the ability to cope up with any responsibility and duty given to me. I have the capability of interacting with various types of people and working together as a team with having a good team spirit. </p><p>
-    I received my education at Lyceum International School where I completed my National G.C.E. Ordinary Level and Advanced Level Examinations. Also I have taken part in charity events and other activities organised by my school interactively.</p><p>
-    I completed my Certificate in PC Hardware Engineering soon after my Ordinary Level Examination and my Diploma in Information Technology soon after my Advanced Level Examination, from ESOFT Metro Campus.</p><p>
-    At present, I am an undergraduate in Bachelor of Science in Computer Science at University of Sri Jayewardenepura, Sri Lanka, as well as, an undergraduate in Bachelor of Information Technology (External) at University of Colombo School of Computing, Sri Lanka.</p><p>
+    I received my secondary education at Lyceum International School where I completed my National G.C.E. Ordinary Level and Advanced Level Examinations. </p><p>
+    I have currently completed the coursework for my B.Sc. (Special) in Computer Science degree at the University of Sri Jayewardenepura, and am awaiting final results to be released by the University. I have earned the Bachelor in Information Technology (External) degree (2014-2017) from the University of Colombo School of Computing in December 2017.
+</p>
+
+<p>
+I have published one full paper and three conference papers from my research work and one paper earned the “Best Research Paper Presented” award at the International Conference on Advances in Computing and Technology held in 2018 organized by the Faculty of Computing and Technology, University of Kelaniya. In addition, my final year research project at University of Sri Jayewardenepura, which was an artificial intelligence programme that generates original musical melodies when provided with an lyrical input, won the Silver Award under the “Tertiary Student Project (Technology)” category at National Best Quality Software Awards (NBQSA) 2018 and won the Gold Award under the “Tertiary Student Project” category at Asia-Pacific ICT Alliance (APICTA) Awards 2018 held in Guangzhou, China.
+</p>
+
+<p>
+I have also engaged in a number of extra-curricular skills, with the most recent been volunteering in the capacity of Co-Chair for the IEEE Sri Lanka Section Student/ Young Professionals/ Women in Engineering Congress 2018.
+</p>
+
+<p>
     Further, on completing my Bachelors I intend to continue higher education leading to a Ph.D. in relation to fields like Deep Learning and Artificial Intelligence.
     </p>
                                     
@@ -303,7 +313,7 @@
                                         <div class="fun-fact">
                                             <i class="pe-7s-map-2"></i>
                                             <!--<img src="images/site/icon-03.png" alt="image"/>-->
-                                            <h4>5 Countries Visited</h4>
+                                            <h4>6 Countries Visited</h4>
                                         </div>
                                         <!-- fun-fact -->
         
@@ -316,7 +326,7 @@
                                         <!-- fun-fact -->
                                         <div class="fun-fact">
                                             <i class="pe-7s-news-paper"></i>
-                                            <h4>6 Articles Published</h4>
+                                            <h4>4 Papers Published</h4>
                                         </div>
                                         <!-- fun-fact -->
         
@@ -396,6 +406,25 @@
                                         </div>
                                         
                                         <div class="event">
+                                            <h3>Aug 2018 - Current</h3>
+                                            <h4>Trainee Software Engineer</h4>
+                                            <h5>CodeGen International (Pvt) Ltd.</h5>
+                                        </div>
+
+                                        <div class="event">
+                                            <h3>May 2018 - Dec 2019</h3>
+                                            <h4>Co-chair</h4>
+                                            <h5>IEEE Sri Lanka Section Student/YP/WIE Congress 2018</h5>
+                                        </div>
+
+                                        <div class="event">
+                                            <h3>Jan 2018 - Current</h3>
+                                            <h4>Founder/ Interim Chair</h4>
+                                            <h5>IEEE Student Branch - University of Sri Jayewardenepura</h5>
+                                            
+                                        </div>
+
+                                        <div class="event">
                                             <h3>Mar 2017 - Current</h3>
                                             <h4>Co-founder/ Operations</h4>
                                             <h5>EchonLabs</h5>
@@ -457,7 +486,7 @@
                                         </div>
                                             
                                         
-                                        <p><a href="/files/Dulan Dias - Curriculum Vitae - August 2017.pdf" class="button"><i class="pe-7s-download"></i>Download Resume/CV</a></p>
+                                        <p><a target="_blank" href="https://drive.google.com/file/d/1apPwCPRxPm0p74ccXdiU7MCYH0I-F9Nt/view?usp=sharing" class="button"><i class="pe-7s-download"></i>Download Resume</a></p>
                                         
                                     </div>
                                     <!-- col -->
@@ -477,6 +506,15 @@
                                         </div>
                                         <!-- section-title -->
                                         
+
+                                    <!-- .skill-unit -->
+                                    <div class="skill-unit">
+                                            <h4>TypeScript/ Angular 2+</h4>
+                                            <div class="bar" data-percent="90">
+                                                <div class="progress"></div>
+                                            </div>
+                                        </div>
+                                        <!-- .skill-unit -->
             
                                         <!-- .skill-unit -->
                                         <div class="skill-unit">
@@ -513,9 +551,6 @@
                                             </div>
                                         </div>
                                         <!-- .skill-unit -->
-            
-            
-            
             
             
                                         <!-- section-title -->
@@ -637,9 +672,9 @@
                                         <img src="images/portfolio/hackx2017/06.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/hackx2017/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/hackx2017/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2017/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/hackx2017/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/hackx2017/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/hackx2017/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2017/05.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2017/06.jpg" class="lightbox"></a>
@@ -656,9 +691,9 @@
                                         <img src="images/portfolio/employability2017/03.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/employability2017/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/employability2017/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/employability2017/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/employability2017/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/employability2017/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/employability2017/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/employability2017/05.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
@@ -674,9 +709,9 @@
                                         <img src="images/portfolio/aurora2k17/02.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/aurora2k17/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/aurora2k17/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2k17/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/aurora2k17/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/aurora2k17/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/aurora2k17/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2k17/05.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
@@ -692,9 +727,9 @@
                                         <img src="images/portfolio/ihack2016/01.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/ihack2016/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/ihack2016/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/ihack2016/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/ihack2016/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/ihack2016/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/ihack2016/04.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/ihack2016/05.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery --> 
@@ -710,9 +745,9 @@
                                         <img src="images/portfolio/employability2016/03.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/employability2016/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/employability2016/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/employability2016/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/employability2016/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/employability2016/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/employability2016/04.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
                                     </div>
@@ -727,11 +762,11 @@
                                         <img src="images/portfolio/hackx2016/03.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/hackx2016/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/hackx2016/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/hackx2016/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/hackx2016/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/hackx2016/03.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/hackx2016/04.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/hackx2016/06.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/hackx2016/06.jpg" class="lightbox" ></a>
                                         <a href="images/portfolio/hackx2016/07.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
                                     </div>
@@ -747,9 +782,9 @@
                                         <img src="images/portfolio/aurora2015/01.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
-                                        <a href="images/portfolio/aurora2015/01.jpg" class="lightbox"</a>
+                                        <a href="images/portfolio/aurora2015/01.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2015/02.jpg" class="lightbox"></a>
-                                        <a href="images/portfolio/aurora2015/03.jpg" class="lightbox" </a>
+                                        <a href="images/portfolio/aurora2015/03.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/aurora2015/04.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery -->
                                     </div>
@@ -773,7 +808,7 @@
                     </section>
                     <!-- PAGE : PORTFOLIO -->
         
-        <!-- PAGE : BLOG -->
+                <!-- PAGE : BLOG -->
                     <section id="blog" class="pt-page page-layout">
                         <!-- .content -->
                         <div class="content">
@@ -1092,17 +1127,20 @@
                             
                             
                             <!--FILTERS-->
-                            <!-- <ul id="filters" class="filters">
+                            <ul id="filters" class="filters">
                                 <li class="current">
                                     <a href="#" data-filter="*">all</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".ebook">ebooks</a>
+                                    <a href="#" data-filter=".int">international</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".soft">software</a>
+                                    <a href="#" data-filter=".nat">national</a>
                                 </li>
-                            </ul> -->
+                                <li>
+                                    <a href="#" data-filter=".uni">university</a>
+                                </li>
+                            </ul>
                             <!--FILTERS-->
         
                             <!-- ITEMS -->
@@ -1110,95 +1148,64 @@
                             
                               <!-- item -->
                                 
-                                <div id="soft01" class="media-cell soft hentry">
-                                    <a href="cloud.php?file=DirLockerLite.msi">				
+                                <div id="awd1" class="media-cell int image hentry">			
                                     <div class="media-box">
-                                        <img src="cloud/dll.jpg" alt="portfolio-post">
+                                        <img src="images/awards/apicta2018.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                     </div>
         
                                     <div class="media-cell-desc">
-                                        <h3>DirLocker Lite v1.0 (by devtek)</h3>
-                                        
-                                        <?php
-                                        
-                                        $hit_count = @file_get_contents('//www.dulandias.com/download/DirLockerLite_Counter.txt');
-                                        echo '<p class="category">'.$hit_count.' downloads</p>';
-                                        
-                                        ?>
-                                        
+                                        <h3>Gold Award - Tertiary Student Project - Asia Pacific ICT Alliance (APICTA) Awards 2018, Guangzhou, China</h3>
                                     </div>
         
-                                </div></a>
+                                </div>
                                 <!-- item -->
-                            
+
                                 <!-- item -->
                                 
-                                <div id="ebook001" class="media-cell ebook hentry">
-                                            <a href="cloud.php?file=lpp.pdf">				
+                                <div id="awd2" class="media-cell nat image hentry">			
                                     <div class="media-box">
-                                        <img src="cloud/lpp.jpg" alt="portfolio-post">
+                                        <img src="images/awards/nbqsa2018.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                     </div>
         
                                     <div class="media-cell-desc">
-                                        <h3>Logic, Programming and PROLOG - Ulf Nilsson and Jan Maluszynski</h3>
-                                        <p class="category">CSC 207 1.5 Knowledge Representation</p>
+                                        <h3>Silver Award - Tertiary Undergraduate Project (Technology) - National Best Quality Software Awards 2018</h3>
                                     </div>
         
-                                </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
-                                <div id="ebook002" class="media-cell ebook hentry">
-                                <a href="cloud.php?file=AveryIngram-LaboratoryPhysics.pdf">
+                                </div>
+
+
+                                <div id="awd3" class="media-cell uni image hentry">			
                                     <div class="media-box">
-                                        <img src="cloud/lp.jpg" alt="portfolio-post">
+                                        <img src="images/awards/jesa2018.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                     </div>
         
                                     <div class="media-cell-desc">
-                                        <h3>Laboratory Physics - Avery and Ingram</h3>
-                                        <p class="category">PHY 125 2.0 Physics Practicals</p>
+                                        <h3>Silver Medal - Best Employability Skills Achiever (Faculty of Applied Sciences) - J'pura Employability Skills Awards (JESA) 2018</h3>
                                     </div>
         
-                                </div></a>
+                                </div>
                                 <!-- item -->
-                                
+
                                 <!-- item -->
-                                
-                                <div id="ebook003" class="media-cell ebook hentry">							
-                                <a href="cloud.php?file=LaboratoryManual.pdf">
+
+                                <div id="awd4" class="media-cell uni image hentry">			
                                     <div class="media-box">
-                                        <img src="cloud/lm.jpg" alt="portfolio-post">
+                                        <img src="images/awards/jesa2017.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                     </div>
         
                                     <div class="media-cell-desc">
-                                        <h3>Laboratory Manual in Physics - Knowlton and Marcus</h3>
-                                        <p class="category">PHY 125 2.0 Physics Practicals</p>
+                                        <h3>Silver Medal - Best Employability Skills Achiever (Faculty of Applied Sciences) - J'pura Employability Skills Awards (JESA) 2017</h3>
                                     </div>
         
-                                </div></a>
+                                </div>
                                 <!-- item -->
+
+
                                 
-                                <!-- item -->
-                                
-                                <div id="ebook004" class="media-cell ebook hentry">
-                                <a href="cloud.php?file=oglPG.pdf">
-                                    <div class="media-box">
-                                        <img src="cloud/oglPG.jpg" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                    </div>
-        
-                                    <div class="media-cell-desc">
-                                        <h3>OpenGL Programming Guide</h3>
-                                        <p class="category">CSC 210 1.0 Computer Graphics</p>
-                                    </div>
-        
-                                </div></a>
-                                <!-- item -->
                             
                                 
                             </div>
@@ -1207,6 +1214,101 @@
                         <!-- .content -->
                     </section>
                     <!-- PAGE : AWARDS -->
+
+                    <!-- PAGE : PUBLICATIONS -->
+                    <section id="publications" class="pt-page page-layout">
+                        <!-- .content -->
+                        <div class="content">
+                            <!-- .layout-medium -->
+                            <div class="layout-medium">
+        
+                            
+                            <!-- page-title -->
+                            <h1 class="page-title">
+                                <i class="pe-7s-news-paper"></i>publications
+                            </h1>
+                            <!-- page-title -->
+                            
+                            
+                            <!--FILTERS-->
+                            <ul id="filters" class="filters">
+                                <li class="current">
+                                    <a href="#" data-filter="*">all</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".full">full</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".ext">extended abstracts</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".abs">abstracts</a>
+                                </li>
+                            </ul>
+                            <!--FILTERS-->
+        
+                            <!-- ITEMS -->
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
+                            
+                              <!-- item -->
+                                <div id="pub1" class="full hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>Identifying Racist Social Media Comments in Sinhala Language Using Text Analytics Models with Machine Learning</h4>
+                                            <h5>2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)</h5>
+                                            <p>Racism or the act of discriminating people based on their race, gender, skin colour and other such related factors has been ruling the world since ancient times. With the development of technology and the introduction of various platforms to communicate with each other such as social media, it soon turned in to a platform to spread racial thoughts within …
+                                                <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8615492/">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
+
+                                <!-- item -->
+                                <div id="pub2" class="ext hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>Virtual Airplay Drum Kit based on Hand Gesture Recognition</h4>
+                                            <h5>3rd International Conference on Advances in Computing and Technology (ICACT ‒ 2018)</h5>
+                                            <p>In the music industry, a drum kit plays a vital role in the production of masterpiece musical melodies. It is also one of the instruments that is in greatest demand by youngsters who are passionate in learning and practicing music. But acquiring a typical drum kit is become a difficult task because of its high cost as well as it requires a large storage space to hold. This research is targeted in examining the possibility of engineering a cost-effective solution to build a portable drum kit. I …
+                                            <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/18977">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
+
+                                <!-- item -->
+                                <div id="pub3" class="ext hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>Forecasting Monthly Ad Revenue from Blogs using Machine Learning</h4>
+                                            <h5>3rd International Conference on Advances in Computing and Technology (ICACT‒2018)</h5>
+                                            <p>Blogs emerged in the late 1990s as a technology that allows Internet users to share information. Since then, blogging has evolved to become a source of living to some and a hobby to others. A blog with rich content and regular traffic could easily be monetized through a number of methods. Affiliate marketing, Google AdSense, offering courses or services, selling eBooks and paid banner advertisements are some of the methods in which a blog could be monetized. …
+                                            <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/18997">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
+
+                                <!-- item -->
+                                <div id="pub4" class="abs hentry">			
+                                    
+                                        <div class="event">
+                                            <h4>A Simple Machine Learning Approach for Identifying Promotional Short Message Service (SMS) Messages</h4>
+                                            <h5>Kelaniya International Conference on Advances in Computing and Technology (KICACT‒2017)</h5>
+                                            <p>Mobile phones play an integral part in the modern lives of humans. Short Message Services (SMS) Messages have become a popular mode for simple communication. Its' simplicity, cost-effectiveness and large audience has attracted the attention of advertising industry to …
+                                            <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/17374">Read more</a></p>
+                                        </div>
+        
+                                </div>
+                                <!-- item -->
+                            
+                                
+                            </div>
+                            <!-- .layout-medium -->
+                        </div>
+                        <!-- .content -->
+                    </section>
+                    <!-- PAGE : PUBLICATIONS -->
                     
                     <!-- PAGE : LIVE -->
                     <section id="live" class="pt-page page-layout">
@@ -1288,8 +1390,7 @@
                                             <!-- fun-fact -->
                                             <div class="fun-fact">
                                                 <i class="pe-7s-map-marker"></i>
-                                                <h4>Wattala,</h4>
-                                                <h4>Sri Lanka.</h4>
+                                                <h4>Wattala,<br>Sri Lanka.</h4>
                                             </div>
                                             <!-- fun-fact -->
             
@@ -1302,7 +1403,6 @@
                                             <!-- fun-fact -->
                                             <div class="fun-fact">
                                                 <i class="pe-7s-call"></i>
-                                                <h4>+94773089692</h4>
                                                 <h4>+94703089692</h4>
                                             </div>
                                             <!-- fun-fact -->
@@ -1316,8 +1416,7 @@
                                             <!-- fun-fact -->
                                             <div class="fun-fact">
                                                 <i class="pe-7s-mail"></i>
-                                                <h4>dulandias@</h4>
-                                                <h4>outlook.com</h4>
+                                                <h4>dulan@<br>ieee.org</h4>
                                             </div>
                                             <!-- fun-fact -->
             
@@ -1329,8 +1428,7 @@
                                         <!-- fun-fact -->
                                         <div class="fun-fact">
                                             <i class="pe-7s-check"></i>
-                                            <h4>Freelance</h4> 
-                                            <h4>Available</h4>
+                                            <h4>Freelance<br>Available</h4> 
                                         </div>
                                         <!-- fun-fact -->
         
