@@ -1172,7 +1172,6 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                         <div class="content">
                             <!-- .layout-medium -->
                             <div class="layout-medium">
-        
                             
                             <!-- page-title -->
                             <h1 class="page-title">
@@ -1261,6 +1260,97 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                     </section>
                     <!-- PAGE : PUBLICATIONS -->
                     
+                    <!-- PAGE : PROFILE -->
+                    <section id="profile" class="pt-page page-layout">
+                        <!-- .content -->
+                        <div class="content">
+                            <!-- .layout-medium -->
+                            <div class="layout-medium">
+        
+                            
+                            <!-- page-title -->
+                            <h1 class="page-title">
+                                <i class="pe-7s-id"></i>profile
+                                
+                            </h1>
+                            <!-- page-title -->
+                            <div class="row center">
+                                <p>Content on this section reflect my public profile that can be used to<br>create content for workshops, guest talks, and other sessions conducted by myself.</p>
+                            
+                            </div>
+
+                            <div class="row center">
+                            
+                            <h2>Biography</h2>
+
+                            <p>Dulan Dias is a young dreamer, a believer and an innovator, who aims to change the world as we know it via technology.
+                            He completed his Bachelor in Science in Computer Science (Special) degree from the University of Sri Jayewardenepura,
+                            and also completed the Bachelor in Information Technology (External) degree from University of Colombo School of Computing.
+                            </p>
+                            <p>
+                            He has won a number of awards for his innovations in the fields of Machine Learning and Artificial Intelligence,
+                            with the most recognized of them being winning the "Gold Award" under the category of "Tertiary Undergraduate Project"
+                            at the "Asia-Pacific ICT Alliance (APICTA) Awards 2018" held in Guangzhou, China, bringing great pride to his university and to Sri Lanka.
+                            </p>
+
+                            <p>
+                            He has given leadership to a wide range of activities that help to uplift education and share knowledge within communities. He is also a
+                            young budding entrepreneur with a stream of flowing ideas in his head all the time, aligned to his vision of changing the world.
+                            </p>
+
+                            </div>
+
+                            <div class="row center">
+                            
+                            <h2>Photographs</h2>
+
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
+                                
+                                <div id="pro1" class="media-cell image hentry">			
+                                        <div class="media-box">
+                                        <img src="images/profile/img3.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <!-- lightbox - gallery -->
+                                        <a href="images/profile/img3.jpg" class="lightbox"></a>
+                                        </div>
+            
+                                </div>
+
+                                <div id="pro2" class="media-cell image hentry">			
+                                        <div class="media-box">
+                                        <img src="images/profile/img4.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <!-- lightbox - gallery -->
+                                        <a href="images/profile/img4.png" class="lightbox"></a>
+                                        </div>
+            
+                                </div>
+
+                                <div id="pro3" class="media-cell image hentry">			
+                                        <div class="media-box">
+                                        <img src="images/profile/img2.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <!-- lightbox - gallery -->
+                                        <a href="images/profile/img2.png" class="lightbox"></a>
+                                        </div>
+            
+                                </div>
+
+                            </div>
+
+                            <!-- <div class="row center">
+                            
+                            <h2>Other</h2>
+
+                            </div> -->
+
+                            </div>
+                            <!-- .layout-medium -->
+                        </div>
+                        <!-- .content -->
+                    </section>
+                    <!-- PAGE : PROFILE -->
+
                     <!-- PAGE : LIVE -->
                     <section id="live" class="pt-page page-layout">
                         <!-- .content -->
