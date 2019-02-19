@@ -1128,9 +1128,21 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 </div>
                                 <!-- item -->
 
+                                <div id="awd4" class="media-cell uni image hentry">			
+                                    <div class="media-box">
+                                        <img src="images/awards/icact2018.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>Best Paper Presented Award - 3rd International Conference on Advances in Computing and Technology 2018</h3>
+                                    </div>
+        
+                                </div>
+
                                 <!-- item -->
 
-                                <div id="awd4" class="media-cell uni image hentry">			
+                                <div id="awd5" class="media-cell uni image hentry">			
                                     <div class="media-box">
                                         <img src="images/awards/jesa2017.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
