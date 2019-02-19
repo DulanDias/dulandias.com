@@ -370,10 +370,6 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                     </section>
                     <!-- PAGE : ABOUT -->
         
-        
-        
-        
-        
                     <!-- PAGE : RESUME -->
                     <section id="resume" class="pt-page page-layout">
                         <!-- .content -->
@@ -809,25 +805,16 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                     <!-- PAGE : PORTFOLIO -->
         
                 <!-- PAGE : BLOG -->
-                    <section id="blog" class="pt-page page-layout">
-                        <!-- .content -->
+                    <!-- <section id="blog" class="pt-page page-layout">
+                       
                         <div class="content">
-                            <!-- .layout-medium -->
+                            
                             <div class="layout-medium">
         
-                            
-                            <!-- page-title -->
                             <h1 class="page-title">
                                 <i class="pe-7s-notebook"></i>blog
                             </h1>
-                            <!-- page-title -->
                             
-                            
-                            <!--<div class="entry-content">
-                                <p>Under Construction.</p>
-                            </div>-->
-                            
-                            <!--FILTERS-->
                             <ul id="filters" class="filters">
                                 <li class="current">
                                     <a href="#" data-filter="*">all</a>
@@ -842,13 +829,9 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     <a href="#" data-filter=".sports">Sports</a>
                                 </li>
                             </ul>
-                            <!--FILTERS-->
-                            
-        
-                            <!-- LATEST POSTS -->
+
                             <div class="latest-posts media-grid masonry" data-layout="masonry" data-item-width="340">
         
-                                <!-- post -->
                                 <article class="hentry media-cell tech">
         
                                     <div class="media-box">
@@ -866,9 +849,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </header>
         
                                 </article>
-                                <!-- post -->
         
-                                <!-- post -->
                                 <article class="hentry media-cell tech">
         
                                     <div class="media-box">
@@ -886,9 +867,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </header>
         
                                 </article>
-                                <!-- post -->
-        
-                                <!-- post -->
+
                                 <article class="hentry media-cell tech">
         
                                     <div class="media-box">
@@ -906,9 +885,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </header>
         
                                 </article>
-                                <!-- post -->
-        
-                                <!-- post -->
+
                                 <article class="hentry media-cell life">
         
                                     <div class="media-box">
@@ -926,9 +903,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </header>
         
                                 </article>
-                                <!-- post -->
-        
-                                <!-- post -->
+
                                 <article class="hentry media-cell tech">
         
                                     <div class="media-box">
@@ -946,9 +921,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </header>
         
                                 </article>
-                                <!-- post -->
-        
-                                <!-- post -->
+
                                 <article class="hentry media-cell sports">
         
                                     <div class="media-box">
@@ -966,31 +939,21 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </header>
         
                                 </article>
-                                <!-- post -->
                                 
                             </div>
-                            <!-- .layout-medium -->
                         </div>
-                        <!-- .content -->
-                    </section>
+                    </section> -->
                     <!-- PAGE : BLOG -->
                     
                     <!-- PAGE : CLOUD -->
-                    <section id="cloud" class="pt-page page-layout">
-                        <!-- .content -->
+                    <!-- <section id="cloud" class="pt-page page-layout">
                         <div class="content">
-                            <!-- .layout-medium -->
                             <div class="layout-medium">
         
-                            
-                            <!-- page-title -->
                             <h1 class="page-title">
                                 <i class="pe-7s-cloud"></i>cloud
                             </h1>
-                            <!-- page-title -->
                             
-                            
-                            <!--FILTERS-->
                             <ul id="filters" class="filters">
                                 <li class="current">
                                     <a href="#" data-filter="*">all</a>
@@ -998,20 +961,12 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <li>
                                     <a href="#" data-filter=".ebook">ebooks</a>
                                 </li>
-                                <!--<li>
-                                    <a href="#" data-filter=".media">Media</a>
-                                </li>-->
                                 <li>
                                     <a href="#" data-filter=".soft">software</a>
                                 </li>
                             </ul>
-                            <!--FILTERS-->
-        
-                            <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
                             
-                              <!-- item -->
-                                
                                 <div id="soft01" class="media-cell soft hentry">
                                     <a href="cloud.php?file=DirLockerLite.msi">				
                                     <div class="media-box">
@@ -1032,10 +987,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
         
                                 </div></a>
-                                <!-- item -->
-                            
-                                <!-- item -->
-                                
+
                                 <div id="ebook001" class="media-cell ebook hentry">
                                             <a href="cloud.php?file=lpp.pdf">				
                                     <div class="media-box">
@@ -1049,10 +1001,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
         
                                 </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
+
                                 <div id="ebook002" class="media-cell ebook hentry">
                                 <a href="cloud.php?file=AveryIngram-LaboratoryPhysics.pdf">
                                     <div class="media-box">
@@ -1066,10 +1015,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
         
                                 </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
+
                                 <div id="ebook003" class="media-cell ebook hentry">							
                                 <a href="cloud.php?file=LaboratoryManual.pdf">
                                     <div class="media-box">
@@ -1083,10 +1029,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
         
                                 </div></a>
-                                <!-- item -->
-                                
-                                <!-- item -->
-                                
+
                                 <div id="ebook004" class="media-cell ebook hentry">
                                 <a href="cloud.php?file=oglPG.pdf">
                                     <div class="media-box">
@@ -1100,14 +1043,10 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
         
                                 </div></a>
-                                <!-- item -->
-                            
                                 
                             </div>
-                            <!-- .layout-medium -->
                         </div>
-                        <!-- .content -->
-                    </section>
+                    </section> -->
                     <!-- PAGE : CLOUD -->
                     
                     
@@ -1253,7 +1192,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                               <!-- item -->
                                 <div id="pub1" class="full hentry">			
                                     
-                                        <div class="event">
+                                        <div class="">
                                             <h4>Identifying Racist Social Media Comments in Sinhala Language Using Text Analytics Models with Machine Learning</h4>
                                             <h5>2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)</h5>
                                             <p>Racism or the act of discriminating people based on their race, gender, skin colour and other such related factors has been ruling the world since ancient times. With the development of technology and the introduction of various platforms to communicate with each other such as social media, it soon turned in to a platform to spread racial thoughts within …
@@ -1266,7 +1205,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <!-- item -->
                                 <div id="pub2" class="ext hentry">			
                                     
-                                        <div class="event">
+                                        <div class="">
                                             <h4>Virtual Airplay Drum Kit based on Hand Gesture Recognition</h4>
                                             <h5>3rd International Conference on Advances in Computing and Technology (ICACT ‒ 2018)</h5>
                                             <p>In the music industry, a drum kit plays a vital role in the production of masterpiece musical melodies. It is also one of the instruments that is in greatest demand by youngsters who are passionate in learning and practicing music. But acquiring a typical drum kit is become a difficult task because of its high cost as well as it requires a large storage space to hold. This research is targeted in examining the possibility of engineering a cost-effective solution to build a portable drum kit. I …
@@ -1279,7 +1218,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <!-- item -->
                                 <div id="pub3" class="ext hentry">			
                                     
-                                        <div class="event">
+                                        <div class="">
                                             <h4>Forecasting Monthly Ad Revenue from Blogs using Machine Learning</h4>
                                             <h5>3rd International Conference on Advances in Computing and Technology (ICACT‒2018)</h5>
                                             <p>Blogs emerged in the late 1990s as a technology that allows Internet users to share information. Since then, blogging has evolved to become a source of living to some and a hobby to others. A blog with rich content and regular traffic could easily be monetized through a number of methods. Affiliate marketing, Google AdSense, offering courses or services, selling eBooks and paid banner advertisements are some of the methods in which a blog could be monetized. …
@@ -1292,7 +1231,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <!-- item -->
                                 <div id="pub4" class="abs hentry">			
                                     
-                                        <div class="event">
+                                        <div class="">
                                             <h4>A Simple Machine Learning Approach for Identifying Promotional Short Message Service (SMS) Messages</h4>
                                             <h5>Kelaniya International Conference on Advances in Computing and Technology (KICACT‒2017)</h5>
                                             <p>Mobile phones play an integral part in the modern lives of humans. Short Message Services (SMS) Messages have become a popular mode for simple communication. Its' simplicity, cost-effectiveness and large audience has attracted the attention of advertising industry to …
