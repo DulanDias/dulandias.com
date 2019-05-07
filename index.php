@@ -271,7 +271,7 @@
         
                                 <!-- row -->			
                                 <div class="row">
-        
+        <p>testing</p>
                                     <p>I am a goal-oriented individual with the ability to cope up with any responsibility and duty given to me. I have the capability of interacting with various types of people and working together as a team with having a good team spirit. </p><p>
     I received my secondary education at Lyceum International School where I completed my National G.C.E. Ordinary Level and Advanced Level Examinations. </p><p>
     I have currently completed the coursework for my B.Sc. (Special) in Computer Science degree at the University of Sri Jayewardenepura, and am awaiting final results to be released by the University. I have earned the Bachelor in Information Technology (External) degree (2014-2017) from the University of Colombo School of Computing in December 2017.
