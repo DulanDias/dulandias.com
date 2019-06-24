@@ -488,7 +488,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         </div>
                                             
                                         
-                                        <p><a target="_blank" href="https://drive.google.com/file/d/1apPwCPRxPm0p74ccXdiU7MCYH0I-F9Nt/view?usp=sharing" class="button"><i class="pe-7s-download"></i>Download Resume</a></p>
+                                        <p><a target="_blank" href="https://drive.google.com/open?id=1kiBGkDkhZKFuCs1xO0K-EoCq2Ii4lZno" class="button"><i class="pe-7s-download"></i>Download Resume</a></p>
                                         
                                     </div>
                                     <!-- col -->
