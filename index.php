@@ -1143,7 +1143,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             
                             <!-- item -->
                                                             
-                            <div id="awd1" class="media-cell int image hentry">			
+                            <div id="awd1" class="media-cell uni image hentry">			
                                     <div class="media-box">
                                         <img src="images/awards/innovate-sl-2019.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
