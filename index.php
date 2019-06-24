@@ -401,7 +401,13 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         </div>
                                         
                                         <div class="event">
-                                            <h3>Aug 2018 - Current</h3>
+                                            <h3>Mar 2019 - Present</h3>
+                                            <h4>Temporary Instructor</h4>
+                                            <h5>University of Sri Jayewardenepura</h5>
+                                        </div>
+
+                                        <div class="event">
+                                            <h3>Aug 2018 - Feb 2019</h3>
                                             <h4>Trainee Software Engineer</h4>
                                             <h5>CodeGen International (Pvt) Ltd.</h5>
                                         </div>
@@ -421,7 +427,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
 
                                         <div class="event">
                                             <h3>Mar 2017 - Current</h3>
-                                            <h4>Co-founder/ Operations</h4>
+                                            <h4>Co-founder/ Chief Executive Officer</h4>
                                             <h5>EchonLabs</h5>
                                             
                                         </div>
