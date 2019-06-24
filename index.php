@@ -1597,7 +1597,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                         
                                 <!-- GOOGLE MAP -->
                                 <div class="map">
-                                    <div data-latitude="7.012695" data-longitude="79.886960" data-zoom="16" data-marker-image="images/site/marker.png" id="map-canvas" class="map-canvas"></div>
+                                    <div data-latitude="7.012695" data-longitude="79.886960" data-zoom="16" data-marker-image="" id="map-canvas" class="map-canvas"></div>
                                 </div>
                                 <!-- GOOGLE MAP -->
                             
