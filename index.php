@@ -463,7 +463,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
         
                                         <div class="event">
                                             <h3>2018</h3>
-                                            <h4>Bachelor of Science in Computer Science</h4>
+                                            <h4>Bachelor of Science (Honours) in Computer Science - First Class</h4>
                                             <h5>University  of Sri Jayewardenepura</h5>
                                             
                                         </div>
@@ -1355,7 +1355,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <h2>Biography</h2>
 
                             <p>Dulan Dias is a young dreamer, a believer and an innovator, who aims to change the world as we know it via technology.
-                            He completed his Bachelor in Science in Computer Science (Special) degree from the University of Sri Jayewardenepura,
+                            He completed his Bachelor of Science in Computer Science (Special) degree from the University of Sri Jayewardenepura,
                             and also completed the Bachelor in Information Technology (External) degree from University of Colombo School of Computing.
                             </p>
                             <p>
