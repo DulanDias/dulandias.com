@@ -553,6 +553,15 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                             </div>
                                         </div>
                                         <!-- .skill-unit -->
+
+                                        <!-- .skill-unit -->
+                                        <div class="skill-unit">
+                                            <h4>Python</h4>
+                                            <div class="bar" data-percent="75">
+                                                <div class="progress"></div>
+                                            </div>
+                                        </div>
+                                        <!-- .skill-unit -->
             
             
                                         <!-- section-title -->
@@ -585,6 +594,32 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <div class="skill-unit">
                                             <h4>AfterEffects</h4>
                                             <div class="bar" data-percent="65">
+                                                <div class="progress"></div>
+                                            </div>
+                                        </div>
+                                        <!-- .skill-unit -->
+
+                                        <!-- section-title -->
+                                        <div class="section-title center">    
+                                            <h2>
+                                                <i>tools and frameworks/i>
+                                            </h2>
+                                        </div>
+                                        <!-- section-title -->
+        
+                                        <!-- .skill-unit -->
+                                        <div class="skill-unit">
+                                            <h4>Keras</h4>
+                                            <div class="bar" data-percent="85">
+                                                <div class="progress"></div>
+                                            </div>
+                                        </div>
+                                        <!-- .skill-unit -->
+
+                                        <!-- .skill-unit -->
+                                        <div class="skill-unit">
+                                            <h4>Tensorflow</h4>
+                                            <div class="bar" data-percent="75">
                                                 <div class="progress"></div>
                                             </div>
                                         </div>
