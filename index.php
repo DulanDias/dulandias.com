@@ -230,7 +230,7 @@
                                 
                                 <h4>Hi, I am</h4>
                                 <h2>DULAN DIAS</h2>
-                                <h4>I am <strong id="typist-element" data-typist="a tech geek., an undergraduate., a blogger.">an adventurist.</strong></h4>          
+                                <h4>I am <strong id="typist-element" data-typist="a tech geek., a researcher., a blogger.">an adventurist.</strong></h4>          
                                 
                             </div>
                             <!-- .layout-medium -->
