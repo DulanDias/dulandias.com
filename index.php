@@ -220,7 +220,7 @@
                        
                     <!-- PAGE : HOME -->
                     <!--section id="home" class="pt-page page-layout light-text home-section has-bg-img" style="background-image:url(images/site/home3.jpg)"-->
-                    <section id="home" class="pt-page page-layout light-text home-section has-bg-img" style="background-image:url(images/awards/innovate-sl-2019.jpg)">
+                    <section id="home" class="pt-page page-layout light-text home-section has-bg-img" style="background-image:url(images/site/home4.jpg)">
 
                         <!-- .content -->
                         <div class="content">
@@ -230,7 +230,7 @@
                                 
                                 <h4>Hi, I am</h4>
                                 <h2>DULAN DIAS</h2>
-                                <h4>I am <strong id="typist-element" data-typist="a tech geek., an undergraduate., a blogger.">an adventurist.</strong></h4>          
+                                <h4>I am <strong id="typist-element" data-typist="a tech geek., a researcher., a blogger.">an adventurist.</strong></h4>          
                                 
                             </div>
                             <!-- .layout-medium -->
