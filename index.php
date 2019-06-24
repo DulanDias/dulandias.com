@@ -602,7 +602,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <!-- section-title -->
                                         <div class="section-title center">    
                                             <h2>
-                                                <i>tools and frameworks/i>
+                                                <i>tools and frameworks</i>
                                             </h2>
                                         </div>
                                         <!-- section-title -->
