@@ -1656,7 +1656,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
             <script src="js/jquery.uniform/jquery.uniform.min.js"></script>
             <script src="js/jquery.magnific-popup/jquery.magnific-popup.min.js"></script>
             <script src="js/socialstream.jquery.js"></script>
-            <script src="https://maps.googleapis.com/maps/api/js"></script>
+            <!-- <script src="https://maps.googleapis.com/maps/api/js"></script> -->
             <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC9hxBRs9QmcST544eAVUpb4NshUa4AFMc"></script>
             <script src="js/main.js"></script>
             
