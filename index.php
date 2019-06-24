@@ -220,7 +220,7 @@
                        
                     <!-- PAGE : HOME -->
                     <!--section id="home" class="pt-page page-layout light-text home-section has-bg-img" style="background-image:url(images/site/home3.jpg)"-->
-                    <section id="home" class="pt-page page-layout light-text home-section has-bg-img" style="background-image:url(images/awards/innovate-sl-2019.jpg)">
+                    <section id="home" class="pt-page page-layout light-text home-section has-bg-img" style="background-image:url(images/site/home4.jpg)">
 
                         <!-- .content -->
                         <div class="content">
