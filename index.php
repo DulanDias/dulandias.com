@@ -669,6 +669,21 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- PORTFOLIO -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
         
+                            <div class="media-cell awards image hentry">
+                                    <div class="media-box">
+                                        <img src="images/portfolio/isl2019/2.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <!-- lightbox - gallery -->
+                                        <a href="images/portfolio/isl2019/1.jpg" class="lightbox"></a>
+                                        <a href="images/portfolio/isl2019/3.jpg" class="lightbox"></a>
+                                        <!-- lightbox - gallery --> 
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>Innovate Sri Lanka 2019 - University of Sri Jayewardenepura</h3>
+                                        <p class="category">June 2019</p>
+                                    </div>
+                                </div>
+
                                     <div class="media-cell hack image hentry">
                                     <div class="media-box">
                                         <img src="images/portfolio/hackx2017/06.jpg" alt="portfolio-post">
