@@ -744,9 +744,10 @@ I have also engaged in a number of extra-curricular skills, with the most recent
 
                                 <div class="media-cell press video hentry">
                                     <div class="media-box">
-                                        <a href="https://www.youtube.com/watch?v=t4tyEmIv6oE" target="_blank">
-                                        <img src="images/portfolio/press-conf-2019.png" alt="portfolio-post"></a>
+                                        
+                                        <img src="images/portfolio/press-conf-2019.png" alt="portfolio-post">
                                         <div class="mask"></div>
+                                        <a href="https://www.youtube.com/watch?v=t4tyEmIv6oE" target="_blank"></a>
                                     </div>
                                     <div class="media-cell-desc">
                                         <h3>Press and Media Briefing Conference - Innovate Sri Lanka 2019 - University of Sri Jayewardenepura</h3>
