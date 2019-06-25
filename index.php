@@ -709,7 +709,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
         
                             <div class="media-cell press video hentry">
                                     <div class="media-box">
-                                        <img src="images/portfolio/isl2019/2.jpg" alt="portfolio-post">
+                                        <img src="images/portfolio/press-conf-2019.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
                                         <a href="https://www.youtube.com/watch?v=t4tyEmIv6oE" class="lightbox"></a>
