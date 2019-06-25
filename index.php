@@ -712,6 +712,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <img src="images/portfolio/ct2019/ct1.jpeg" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
+                                        <a href="images/portfolio/ct2019/ct1.jpeg" class="lightbox"></a>
                                         <a href="images/portfolio/ct2019/ct2.jpeg" class="lightbox"></a>
                                         <a href="images/portfolio/ct2019/ct3.jpeg" class="lightbox"></a>
                                         <!-- lightbox - gallery --> 
@@ -724,11 +725,10 @@ I have also engaged in a number of extra-curricular skills, with the most recent
 
                             <div class="media-cell press video hentry">
                                     <div class="media-box">
-                                        <img src="images/portfolio/press-conf-2019.png" alt="portfolio-post">
-                                        <div class="mask"></div>
-                                        <!-- lightbox - gallery -->
-                                        <a href="https://www.youtube.com/watch?v=t4tyEmIv6oE" class="lightbox"></a>
-                                        <!-- lightbox - gallery --> 
+                                        
+                                        <!-- <div class="mask"></div> -->
+                                        <a href="https://www.youtube.com/watch?v=t4tyEmIv6oE" target="_blank">
+                                        <img src="images/portfolio/press-conf-2019.png" alt="portfolio-post"></a>
                                     </div>
                                     <div class="media-cell-desc">
                                         <h3>Press and Media Briefing Conference - Innovate Sri Lanka 2019 - University of Sri Jayewardenepura</h3>
@@ -742,6 +742,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
                                         <a href="images/portfolio/isl2019/1.jpg" class="lightbox"></a>
+                                        <a href="images/portfolio/isl2019/2.jpg" class="lightbox"></a>
                                         <a href="images/portfolio/isl2019/3.jpg" class="lightbox"></a>
                                         <!-- lightbox - gallery --> 
                                     </div>
