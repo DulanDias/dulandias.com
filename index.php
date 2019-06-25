@@ -17,7 +17,7 @@
           <meta property="og:type" content="website" />
           <meta property="og:title" content="Welcome to Dulan Dias!" />
           <meta property="og:description" content="This is the online resume of Dulan S. Dias." />
-          <meta property="og:image" content="images/banner.png" />
+          <meta property="og:image" content="images/site/home4.jpg" />
             
             <!-- FAV and TOUCH ICONS -->
             <link rel="shortcut icon" href="images/ico/favicon.ico">
