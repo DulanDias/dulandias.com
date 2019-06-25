@@ -6,7 +6,7 @@
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
             <meta name="description" content="This is the online resume of Dulan S. Dias.">
             <meta name="keywords" content="resume, blog, dulan, dias, dulan dias, sri lanka, techie, researcher">
-            <meta name="author" content="EchonLabs">
+            <meta name="author" content="Dulan Dias">
             
             <meta name="theme-color" content="#1c262b">
     
