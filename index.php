@@ -699,7 +699,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     <a href="#" data-filter=".events">Events</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".press">Press Conferences</a>
+                                    <a href="#" data-filter=".press">Press and Media</a>
                                 </li>
                             </ul>
                             <!--FILTERS-->
@@ -707,9 +707,24 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- PORTFOLIO -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
         
+                            <div class="media-cell press image hentry">
+                                    <div class="media-box">
+                                        <img src="images/portfolio/ct2019/ct1.jpeg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <!-- lightbox - gallery -->
+                                        <a href="images/portfolio/ct2019/ct2.jpeg" class="lightbox"></a>
+                                        <a href="images/portfolio/ct2019/ct3.jpeg" class="lightbox"></a>
+                                        <!-- lightbox - gallery --> 
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>Tech Talk Magazine - Ceylon Today</h3>
+                                        <p class="category">June 2019</p>
+                                    </div>
+                                </div>
+
                             <div class="media-cell press video hentry">
                                     <div class="media-box">
-                                        <img src="images/portfolio/press-conf-2019.jpg" alt="portfolio-post">
+                                        <img src="images/portfolio/press-conf-2019.png" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <!-- lightbox - gallery -->
                                         <a href="https://www.youtube.com/watch?v=t4tyEmIv6oE" class="lightbox"></a>
