@@ -1235,7 +1235,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 </div>
                                 <!-- item -->
 
-                                <div id="awd4" class="media-cell uni image hentry">			
+                                <div id="awd4" class="media-cell int image hentry">			
                                     <div class="media-box">
                                         <img src="images/awards/icact2018.jpg" alt="portfolio-post">
                                         <div class="mask"></div>
