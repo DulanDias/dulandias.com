@@ -1403,7 +1403,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
                             
-                            <div class="media-cell web video hentry">
+                            <div class="media-cell web file hentry">
                                     <div class="media-box">
                                         
                                         <img src="images/courses/crash-web-development.png" alt="portfolio-post">
@@ -1416,7 +1416,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
                                 </div>
 
-                                <div class="media-cell other video hentry">
+                                <div class="media-cell other file hentry">
                                     <div class="media-box">
                                         
                                         <img src="images/courses/intro-to-latex.png" alt="portfolio-post">
