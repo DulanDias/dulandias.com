@@ -1401,7 +1401,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!--FILTERS-->
         
                             <!-- ITEMS -->
-                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="680">
                             
                             <div class="media-cell web file hentry">
                                     <div class="media-box">
