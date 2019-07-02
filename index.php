@@ -1406,6 +1406,19 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <div class="media-cell web file hentry">
                                     <div class="media-box">
                                         
+                                        <img src="images/courses/responsive-web-design.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/responsive-web-design.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>Responsive Web Design</h3>
+                                        <p class="category">July 2019</p>
+                                    </div>
+                                </div>
+
+                            <div class="media-cell web file hentry">
+                                    <div class="media-box">
+                                        
                                         <img src="images/courses/crash-web-development.png" alt="portfolio-post">
                                         <div class="mask"></div>
                                         <a href="files/courses/crash-course-on-web-development.pdf" target="_blank"></a>
