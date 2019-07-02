@@ -150,10 +150,10 @@
                                         <a href="#/publications">
                                             <i class="pe-7s-news-paper"></i>Publications</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="#/courses">
                                             <i class="pe-7s-folder"></i>Courses</a>
-                                    </li>
+                                    </li> -->
                                     <!-- <li>
                                         <a href="/blog">
                                             <i class="pe-7s-notebook"></i>Blog</a>
