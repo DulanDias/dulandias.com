@@ -150,6 +150,10 @@
                                         <a href="#/publications">
                                             <i class="pe-7s-news-paper"></i>Publications</a>
                                     </li>
+                                    <li>
+                                        <a href="#/courses">
+                                            <i class="pe-7s-folder"></i>Courses</a>
+                                    </li>
                                     <!-- <li>
                                         <a href="/blog">
                                             <i class="pe-7s-notebook"></i>Blog</a>
@@ -1358,6 +1362,72 @@ I have also engaged in a number of extra-curricular skills, with the most recent
         
                                 </div>
                                 <!-- item -->
+                            
+                                
+                            </div>
+                            <!-- .layout-medium -->
+                        </div>
+                        <!-- .content -->
+                    </section>
+                    <!-- PAGE : PUBLICATIONS -->
+
+                    <!-- PAGE : COURSES -->
+                    <section id="courses" class="pt-page page-layout">
+                        <!-- .content -->
+                        <div class="content">
+                            <!-- .layout-medium -->
+                            <div class="layout-medium">
+                            
+                            <!-- page-title -->
+                            <h1 class="page-title">
+                                <i class="pe-7s-folder"></i>courses
+                            </h1>
+                            <!-- page-title -->
+                            
+                            
+                            <!--FILTERS-->
+                            <ul id="filters" class="filters">
+                                <li class="current">
+                                    <a href="#" data-filter="*">all</a>
+                                </li>
+                                <li>
+                                    <a href="#" data-filter=".web">web</a>
+                                </li>
+
+                                <li>
+                                    <a href="#" data-filter=".other">other</a>
+                                </li>
+                            </ul>
+                            <!--FILTERS-->
+        
+                            <!-- ITEMS -->
+                            <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
+                            
+                            <div class="media-cell web video hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/crash-web-development.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/crash-course-on-web-development.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>Crash Course on Web Development</h3>
+                                        <p class="category">July 2019</p>
+                                    </div>
+                                </div>
+
+                                <div class="media-cell other video hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/intro-to-latex.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/introduction-to-latex.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>Introduction to LaTex</h3>
+                                        <p class="category">May 2019</p>
+                                    </div>
+                                </div>
                             
                                 
                             </div>
