@@ -1428,7 +1428,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
                                     <div class="media-cell-desc">
                                         <h3>CSC 110 2.0 Object Oriented Programming - Tute 2</h3>
-                                        <p class="category">August 2019</p>
+                                        <p class="category">July 2019</p>
                                     </div>
                                 </div>
 
@@ -1441,7 +1441,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
                                     <div class="media-cell-desc">
                                         <h3>CSC 110 2.0 Object Oriented Programming - Tute 1</h3>
-                                        <p class="category">August 2019</p>
+                                        <p class="category">July 2019</p>
                                     </div>
                                 </div>
 
