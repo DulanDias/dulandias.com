@@ -1393,6 +1393,9 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <li>
                                     <a href="#" data-filter=".web">web</a>
                                 </li>
+                                <li>
+                                    <a href="#" data-filter=".tutes">tutes</a>
+                                </li>
 
                                 <li>
                                     <a href="#" data-filter=".other">other</a>
@@ -1403,6 +1406,45 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="680">
                             
+                            <div class="media-cell web file hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/csc110.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/tutorials/csc110/tute-3.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>CSC 110 2.0 Object Oriented Programming - Tute 3</h3>
+                                        <p class="category">August 2019</p>
+                                    </div>
+                                </div>
+
+                            <div class="media-cell web file hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/csc110.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/tutorials/csc110/tute-2.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>CSC 110 2.0 Object Oriented Programming - Tute 2</h3>
+                                        <p class="category">August 2019</p>
+                                    </div>
+                                </div>
+
+                            <div class="media-cell web file hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/csc110.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/tutorials/csc110/tute-1.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>CSC 110 2.0 Object Oriented Programming - Tute 1</h3>
+                                        <p class="category">August 2019</p>
+                                    </div>
+                                </div>
+
                             <div class="media-cell web file hentry">
                                     <div class="media-box">
                                         
