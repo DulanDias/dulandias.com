@@ -1328,7 +1328,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <div id="pub2" class="ext hentry">			
                                     
                                         <div class="">
-                                            <h4>🏆 Virtual Airplay Drum Kit based on Hand Gesture Recognition</h4>
+                                            <h4>🥇 Virtual Airplay Drum Kit based on Hand Gesture Recognition</h4>
                                             <h5>3rd International Conference on Advances in Computing and Technology (ICACT ‒ 2018)</h5>
                                             <p>In the music industry, a drum kit plays a vital role in the production of masterpiece musical melodies. It is also one of the instruments that is in greatest demand by youngsters who are passionate in learning and practicing music. But acquiring a typical drum kit is become a difficult task because of its high cost as well as it requires a large storage space to hold. This research is targeted in examining the possibility of engineering a cost-effective solution to build a portable drum kit. I …
                                             <a target="_blank" href="http://repository.kln.ac.lk/handle/123456789/18977">Read more</a></p>
