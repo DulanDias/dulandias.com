@@ -1395,7 +1395,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     <a href="#" data-filter=".web">web</a>
                                 </li>
                                 <li>
-                                    <a href="#" data-filter=".tutes">tutes</a>
+                                    <a href="#" data-filter=".tute">tutes</a>
                                 </li>
 
                                 <li>
@@ -1407,7 +1407,20 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="320">
                             
-                            <div class="media-cell web file hentry">
+                            <div class="media-cell tute file hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/csc110.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/tutorials/csc110/tute-4.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>CSC 110 2.0 Object Oriented Programming - Tute 4</h3>
+                                        <p class="category">August 2019</p>
+                                    </div>
+                                </div>
+
+                            <div class="media-cell tute file hentry">
                                     <div class="media-box">
                                         
                                         <img src="images/courses/csc110.png" alt="portfolio-post">
@@ -1420,7 +1433,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
                                 </div>
 
-                            <div class="media-cell web file hentry">
+                            <div class="media-cell tute file hentry">
                                     <div class="media-box">
                                         
                                         <img src="images/courses/csc110.png" alt="portfolio-post">
@@ -1433,7 +1446,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                     </div>
                                 </div>
 
-                            <div class="media-cell web file hentry">
+                            <div class="media-cell tute file hentry">
                                     <div class="media-box">
                                         
                                         <img src="images/courses/csc110.png" alt="portfolio-post">
