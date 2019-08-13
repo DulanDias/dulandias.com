@@ -1407,6 +1407,19 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="320">
                             
+                            <div class="media-cell other file hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/raspberry-pi.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/raspberry-pi.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>Getting Started with Programming with Raspberry Pi 3</h3>
+                                        <p class="category">April 2019</p>
+                                    </div>
+                                </div>
+
                             <div class="media-cell tute file hentry">
                                     <div class="media-box">
                                         
