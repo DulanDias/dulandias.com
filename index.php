@@ -356,7 +356,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <!-- fun-fact -->
                                         <div class="fun-fact">
                                             <i class="pe-7s-medal"></i>
-                                            <h4>4 Awards Won</h4>
+                                            <h4>6 Awards Won</h4>
                                         </div>
                                         <!-- fun-fact -->
         
