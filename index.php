@@ -1181,6 +1181,21 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="340">
                             
+                                   <!-- item -->
+                                                            
+                                   <div id="awd1" class="media-cell national image hentry">			
+                                    <div class="media-box">
+                                        <img src="images/awards/cssl-2019.jpg" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                    </div>
+        
+                                    <div class="media-cell-desc">
+                                        <h3>CSSL ICT Student of the Year 2019 - Computer Society of Sri Lanka</h3>
+                                    </div>
+        
+                                </div>
+                                <!-- item -->
+
                             <!-- item -->
                                                             
                             <div id="awd1" class="media-cell uni image hentry">			
