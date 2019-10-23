@@ -282,7 +282,7 @@
 </p>
 
 <p>
-I have published one full paper and three conference papers from my research work and one paper earned the “Best Research Paper Presented” award at the International Conference on Advances in Computing and Technology held in 2018 organized by the Faculty of Computing and Technology, University of Kelaniya. In addition, my final year research project at University of Sri Jayewardenepura, which was an artificial intelligence programme that generates original musical melodies when provided with an lyrical input, won the Silver Award under the “Tertiary Student Project (Technology)” category at National Best Quality Software Awards (NBQSA) 2018 and won the Gold Award under the “Tertiary Student Project” category at Asia-Pacific ICT Alliance (APICTA) Awards 2018 held in Guangzhou, China.
+I have published 5 conference papers from my research work, one of which earned the “Best Research Paper Presented” award at the International Conference on Advances in Computing and Technology held in 2018 organized by the Faculty of Computing and Technology, University of Kelaniya. In addition, my final year research project at University of Sri Jayewardenepura, which was an artificial intelligence programme that generates original musical melodies when provided with an lyrical input, won the Silver Award under the “Tertiary Student Project (Technology)” category at National Best Quality Software Awards (NBQSA) 2018 and won the Gold Award under the “Tertiary Student Project” category at Asia-Pacific ICT Alliance (APICTA) Awards 2018 held in Guangzhou, China. In 2019, I was awarded the CSSL ICT Student of the Year (Tertiary) Award 2019 by the Computer Society of Sri Lanka, for my all-round excellence in academics and extra-curricular activities.
 </p>
 
 <p>
@@ -356,7 +356,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         <!-- fun-fact -->
                                         <div class="fun-fact">
                                             <i class="pe-7s-medal"></i>
-                                            <h4>4 Awards Won</h4>
+                                            <h4>6 Awards Won</h4>
                                         </div>
                                         <!-- fun-fact -->
         
@@ -1419,6 +1419,19 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="320">
                         
+						 <div class="media-cell tute file hentry">
+                                    <div class="media-box">
+                                        
+                                        <img src="images/courses/csc110.png" alt="portfolio-post">
+                                        <div class="mask"></div>
+                                        <a href="files/courses/tutorials/csc110/tute-9.pdf" target="_blank"></a>
+                                    </div>
+                                    <div class="media-cell-desc">
+                                        <h3>CSC 110 2.0 Object Oriented Programming - Tute 9</h3>
+                                        <p class="category">October 2019</p>
+                                    </div>
+                                </div>
+						
                             <div class="media-cell tute file hentry">
                                     <div class="media-box">
                                         
