@@ -1311,6 +1311,18 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                             <!-- ITEMS -->
                             <div class="portfolio-items media-grid masonry" data-layout="masonry" data-item-width="1360">
                             
+                                       <!-- item -->
+                                       <div id="pub1" class="full hentry">			
+                                    
+                                    <div class="">
+                                        <h4>Komposer - Automated Musical Note Generation based on Lyrics with Recurrent Neural Networks</h4>
+                                        <h5>2019 1st International Conference on Artificial Intelligence and Data Sciences (AiDAS)</h5>
+                                        <p>Musical creativity being one of the strong-hold characteristics that differentiate humans from computers in today’s technologically advanced society, algorithmic composition and song writing are the research areas that aim to bridge this gap. With the introduction and development of various neural network-based methodologies that have shown quite a promise in applications …
+                                            <a target="_blank" href="https://www.researchgate.net/publication/336022287_Komposer_-_Automated_Musical_Note_Generation_based_on_Lyrics_with_Recurrent_Neural_Networks">Read more</a></p>
+                                    </div>
+    
+                            </div>
+                            <!-- item -->
 
                               <!-- item -->
                                 <div id="pub1" class="full hentry">			
