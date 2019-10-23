@@ -1330,7 +1330,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                        <div id="pub1" class="full hentry">			
                                     
                                     <div class="">
-                                        <h4>Komposer - Automated Musical Note Generation based on Lyrics with Recurrent Neural Networks</h4>
+                                        <h4><span title="Gold Award (Tertiary Student Project) - Asia-Pacific ICT Alliance (APICTA) Awards 2018">🏆</span> Komposer - Automated Musical Note Generation based on Lyrics with Recurrent Neural Networks</h4>
                                         <h5>2019 1st International Conference on Artificial Intelligence and Data Sciences (AiDAS)</h5>
                                         <p>Musical creativity being one of the strong-hold characteristics that differentiate humans from computers in today’s technologically advanced society, algorithmic composition and song writing are the research areas that aim to bridge this gap. With the introduction and development of various neural network-based methodologies that have shown quite a promise in applications …
                                             <a target="_blank" href="https://www.researchgate.net/publication/336022287_Komposer_-_Automated_Musical_Note_Generation_based_on_Lyrics_with_Recurrent_Neural_Networks">Read more</a></p>
@@ -1343,7 +1343,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                 <div id="pub1" class="full hentry">			
                                     
                                         <div class="">
-                                            <h4><span title="Gold Award (Tertiary Student Project) - Asia-Pacific ICT Alliance (APICTA) Awards 2018">🏆</span> Identifying Racist Social Media Comments in Sinhala Language Using Text Analytics Models with Machine Learning</h4>
+                                            <h4>Identifying Racist Social Media Comments in Sinhala Language Using Text Analytics Models with Machine Learning</h4>
                                             <h5>2018 18th International Conference on Advances in ICT for Emerging Regions (ICTer)</h5>
                                             <p>Racism or the act of discriminating people based on their race, gender, skin colour and other such related factors has been ruling the world since ancient times. With the development of technology and the introduction of various platforms to communicate with each other such as social media, it soon turned in to a platform to spread racial thoughts within …
                                                 <a target="_blank" href="https://ieeexplore.ieee.org/abstract/document/8615492/">Read more</a></p>
