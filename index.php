@@ -1440,7 +1440,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         
                                         <img src="images/courses/csc110.png" alt="portfolio-post">
                                         <div class="mask"></div>
-                                        <a href="files/courses/tutorials/csc110/tute-10.pdf" target="_blank"></a>
+                                        <a href="files/courses/tutorials/csc110/tute-10.docx" target="_blank"></a>
                                     </div>
                                     <div class="media-cell-desc">
                                         <h3>CSC 110 2.0 Object Oriented Programming - Tute 10</h3>
