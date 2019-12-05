@@ -213,7 +213,7 @@
         <script src="http://dulandias.com/js/jquery.magnific-popup/jquery.magnific-popup.min.js"></script>
         <script src="http://dulandias.com/js/socialstream.jquery.js"></script>
      <script src="https://maps.googleapis.com/maps/api/js"></script>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC9hxBRs9QmcST544eAVUpb4NshUa4AFMc"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=<REPLACE WITH KEY HERE>"></script>
         <script src="http://dulandias.com/js/main.js"></script>
         
 	</body>
