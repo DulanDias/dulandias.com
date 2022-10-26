@@ -431,7 +431,7 @@ I have also engaged in a number of extra-curricular skills, with the most recent
                                         </div>
 
                                         <div class="event">
-                                            <h3>Mar 2017 - Current</h3>
+                                            <h3>Mar 2017 - Aug 2020</h3>
                                             <h4>Co-founder/ Chief Executive Officer</h4>
                                             <h5>EchonLabs</h5>
                                             
